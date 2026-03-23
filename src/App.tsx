@@ -888,19 +888,20 @@ export default function App() {
               >
                 <div className="aspect-video rounded-2xl border border-zinc-800 bg-black overflow-hidden shadow-2xl relative group">
                   <iframe 
-                    src="https://drive.google.com/file/d/1htmDvvVehrzD6m1vVfYQEDExzQSsUVic/preview" 
+                    src="https://www.youtube.com/embed/jeud8PApf00" 
                     className="w-full h-full border-0"
-                    allow="autoplay; fullscreen"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowFullScreen
                     loading="lazy"
-                    title="System Walkthrough A"
+                    title="Sample DOMO Dashboard"
                   ></iframe>
                   <div className="absolute top-4 left-4 pointer-events-none">
-                    <span className="px-2 py-1 rounded bg-indigo-500/20 border border-indigo-500/30 text-[10px] font-mono text-indigo-400 uppercase tracking-widest">System Walkthrough A</span>
+                    <span className="px-2 py-1 rounded bg-indigo-500/20 border border-indigo-500/30 text-[10px] font-mono text-indigo-400 uppercase tracking-widest">Sample DOMO Dashboard</span>
                   </div>
                 </div>
                 <div className="flex justify-center">
                   <a 
-                    href="https://drive.google.com/file/d/1htmDvvVehrzD6m1vVfYQEDExzQSsUVic/view" 
+                    href="https://youtu.be/jeud8PApf00" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-[10px] font-mono text-zinc-500 hover:text-indigo-400 transition-colors uppercase tracking-widest flex items-center"
@@ -917,19 +918,20 @@ export default function App() {
               >
                 <div className="aspect-video rounded-2xl border border-zinc-800 bg-black overflow-hidden shadow-2xl relative group">
                   <iframe 
-                    src="https://drive.google.com/file/d/1_SceWSohAW51w4jEm5TWqEjxYd2Qf5MT/preview" 
+                    src="https://www.youtube.com/embed/zQjXltzWxHw" 
                     className="w-full h-full border-0"
-                    allow="autoplay; fullscreen"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    allowFullScreen
                     loading="lazy"
-                    title="System Walkthrough B"
+                    title="Sample Vibe Coding Dashboard"
                   ></iframe>
                   <div className="absolute top-4 left-4 pointer-events-none">
-                    <span className="px-2 py-1 rounded bg-emerald-500/20 border border-emerald-500/30 text-[10px] font-mono text-emerald-400 uppercase tracking-widest">System Walkthrough B</span>
+                    <span className="px-2 py-1 rounded bg-emerald-500/20 border border-emerald-500/30 text-[10px] font-mono text-emerald-400 uppercase tracking-widest">Sample Vibe Coding Dashboard</span>
                   </div>
                 </div>
                 <div className="flex justify-center">
                   <a 
-                    href="https://drive.google.com/file/d/1_SceWSohAW51w4jEm5TWqEjxYd2Qf5MT/view" 
+                    href="https://youtu.be/zQjXltzWxHw" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-[10px] font-mono text-zinc-500 hover:text-emerald-400 transition-colors uppercase tracking-widest flex items-center"
